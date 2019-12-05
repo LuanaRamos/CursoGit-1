@@ -1,4 +1,4 @@
 #include<stdlib.h>
 int main    (){
-    printf("Hello World\n");
+    printf("Não se preocupe. Eu vou te ajudar.\n");
 }
